@@ -1,0 +1,26 @@
+#hero {
+    background-color: #008060;
+    height: 500px;
+}
+#logo1 {
+    height: 100px;
+    width: 140px;
+}
+#product1 {
+    height: 600px;
+    width: 750px;
+}
+#grid1 {
+    height: 60px;
+    width: 60px;
+}
+#com {
+    height: 35px;
+    width: 100px;
+}
+#last {
+    font-weight: 500;
+}
+#bg {
+    background:linear-gradient(to bottom, #008060 50%,#ffffff 50%);
+}
